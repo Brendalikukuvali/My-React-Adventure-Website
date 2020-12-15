@@ -16,7 +16,7 @@
   font-size: 3rem;
 }
  .services {
-  /* background-image: url('/Images/img-2.jpg'); */
+  /* background-image: url('/Images/imageJ.jpg'); */
   background-image: url('https://img2.goodfon.com/wallpaper/nbig/0/15/napitki-kokteyli-summer.jpg');
   background-position: center;
   background-size: cover;
@@ -26,7 +26,7 @@
 } 
 .products {
   background-image: url('https://s1.1zoom.me/big0/920/382478-svetik.jpg');
-  /* background-image: url('/Images/img-1.jpg'); */
+  /* background-image: url('/Images/imageA.jpg'); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -36,7 +36,7 @@
 
 .sign-up {
   background-image: url('https://media-cdn.tripadvisor.com/media/photo-s/11/26/a0/b7/tropical-cocktails.jpg');
-  /* background-image: url('/images/img-8.jpg'); */
+  /* background-image: url('/images/imageF.jpg'); */
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
